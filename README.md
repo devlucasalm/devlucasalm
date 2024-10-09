@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-almeida-9477b22a4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaswkk/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-almeida-js&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucasalm&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia 
 
