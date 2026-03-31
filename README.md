@@ -17,11 +17,11 @@ Também estou desenvolvendo projetos próprios, como o **DebateIQ**, focado em m
 ## 🌐 Redes
 
 <p>
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/lucasdealmeidadev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_LINK_INSTAGRAM">
+<a href="https://www.instagram.com/lucaswkk/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
