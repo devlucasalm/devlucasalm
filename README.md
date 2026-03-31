@@ -1,8 +1,6 @@
 # 👩🏻‍💻 Lucas de Almeida
 
-<p align="center">
-Desenvolvedor Full Stack em formação
-</p>
+**`Desenvolvedor FullStack`**
 
 ---
 
