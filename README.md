@@ -9,9 +9,9 @@ Desenvolvedor Full Stack em formação
 ## 👨‍💻 Sobre mim
 
 Me chamo **Lucas de Almeida**, sou do **Rio Grande do Sul** e estou iniciando minha carreira como desenvolvedor.  
-Tenho formação em **Curso Técnico em Informática** e atualmente continuo aprofundando meus conhecimentos em desenvolvimento de software.
+Tenho formação em **Curso Técnico em Informática** e cursando Analise e Desenvolvimento de Sistemas. Atualmente continuo aprofundando meus conhecimentos em desenvolvimento de software.
 
-Sou apaixonado por **tecnologia, programação e ciência**, e gosto de criar projetos práticos para evoluir minhas habilidades.  
+Sou apaixonado por **tecnologia, programação e aprendizado**, e gosto de criar projetos práticos para evoluir minhas habilidades.  
 Atualmente venho desenvolvendo projetos web e explorando tecnologias modernas do ecossistema JavaScript.
 
 Também estou desenvolvendo projetos próprios, como o **DebateIQ**, focado em melhorar habilidades de argumentação utilizando inteligência artificial.
