@@ -1,20 +1,69 @@
-## Hi! I'am Lucas de Almeida 👋
+<h1 align="center">Hi! I'm Lucas de Almeida 👋</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-almeida-9477b22a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaswkk/)
+<p align="center">
+Desenvolvedor Full Stack em formação
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucasalm&show_icons=true&theme=radical)
+---
 
-## My Stack
+## 👨‍💻 Sobre mim
 
-[![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)]()
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]()
+Me chamo **Lucas de Almeida**, sou do **Rio Grande do Sul** e estou iniciando minha carreira como desenvolvedor.  
+Tenho formação em **Curso Técnico em Informática** e atualmente continuo aprofundando meus conhecimentos em desenvolvimento de software.
 
-💻 Desenvolvedor full-stack busancando experiências, apaixonado por aprender e fazer projetos na programação.
+Sou apaixonado por **tecnologia, programação e ciência**, e gosto de criar projetos práticos para evoluir minhas habilidades.  
+Atualmente venho desenvolvendo projetos web e explorando tecnologias modernas do ecossistema JavaScript.
+
+Também estou desenvolvendo projetos próprios, como o **DebateIQ**, focado em melhorar habilidades de argumentação utilizando inteligência artificial.
+
+---
+
+## 🌐 Redes
+
+<p>
+<a href="SEU_LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="SEU_LINK_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,git,github" />
+</p>
+
+Também tenho experiência com:
+
+- .NET  
+- C#  
+- Firebase  
+- APIs REST  
+- GitHub Actions
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 💡 Atualmente estudando
+
+- Angular
+- TypeScript
+- Desenvolvimento Full Stack
+- Integração com APIs e IA
+
+---
+
+⭐ Sempre buscando aprender mais e construir projetos interessantes!
