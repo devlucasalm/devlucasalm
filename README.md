@@ -45,7 +45,12 @@ Também tenho experiência com:
 - Firebase  
 - APIs REST  
 - GitHub Actions
-
+- PostGreSQL
+- Flutter
+- NodeJs
+- Integração com IA
+- OAuth2.0
+  
 ---
 
 ## 📊 Estatísticas do GitHub
