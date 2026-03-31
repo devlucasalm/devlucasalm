@@ -31,7 +31,7 @@ Também estou desenvolvendo projetos próprios, como o **DebateIQ**, focado em m
 ## 🚀 Linguagens e Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,angular,git,github,cs,vercel,dotnet,flutter,visualstudio,mysql,postgres,nodejs" />
+<img src="https://skillicons.dev/icons?i=js,ts,angular,git,github,cs,vercel,dotnet,flutter,visualstudio,mysql,postgres,nodejs,py" />
 </p>
 
 Também tenho experiência com:
