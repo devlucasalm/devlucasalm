@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Lucas de Almeida 👋</h1>
+# 👩🏻‍💻 Lucas de Almeida
 
 <p align="center">
 Desenvolvedor Full Stack em formação
