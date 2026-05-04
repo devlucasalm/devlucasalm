@@ -8,9 +8,9 @@ Me chamo **Lucas de Almeida**, sou do **Rio Grande do Sul** e estou iniciando mi
 Tenho formação em **Curso Técnico em Informática** e cursando **Analise e Desenvolvimento de Sistemas**. Atualmente continuo aprofundando meus conhecimentos em desenvolvimento de software.
 
 Sou apaixonado por **tecnologia, programação e aprendizado**, e gosto de criar projetos práticos para evoluir minhas habilidades.  
-Atualmente venho desenvolvendo projetos web e explorando tecnologias modernas do ecossistema JavaScript.
+Atualmente venho desenvolvendo projetos web e explorando tecnologias modernas do ecossistema Typescript e C#.
 
-Também estou desenvolvendo projetos próprios, como o **DebateIQ**, focado em melhorar habilidades de argumentação utilizando inteligência artificial.
+Também estou desenvolvendo projetos próprios, como o **Nexo Finances**, um app mobile focado em finaças pessoais.
 
 ---
 
