@@ -37,7 +37,6 @@ Também estou desenvolvendo projetos próprios, como o **Nexo Finances**, um app
 Também tenho experiência com:
 
 - .NET  
-- C#  
 - Firebase  
 - APIs REST  
 - GitHub Actions
